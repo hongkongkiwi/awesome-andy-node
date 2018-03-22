@@ -1,4 +1,4 @@
-# Awesome Amdy Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Andy Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
 
@@ -22,4 +22,16 @@
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+
+### FeathersJS
+
 - [feathers-stripe](https://github.com/feathersjs-ecosystem/feathers-stripe) A stripe payment adapter for feathersjs
+- [feathers-authentication-management](https://github.com/feathers-plus/feathers-authentication-management/blob/master/docs.md#database)
+- [feathers-authentication-publickey](https://www.npmjs.com/package/feathers-authentication-publickey)
+- [feathers-sync](https://github.com/feathersjs-ecosystem/feathers-sync)
+- [feathers-hooks-rediscache](https://github.com/idealley/feathers-hooks-rediscache)
+- [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Blob storage with a customizable backend (e.g. Amazon S3)
+- [feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Swagger Documentation for your API
+- [feathers-authentication-hooks](https://github.com/feathersjs-ecosystem/feathers-authentication-hooks) - Some authentication hooks to take inspiration from
+- [feathers-hooks-validate-joi](https://github.com/eddyystop/feathers-hooks-validate-joi) - Validation in Feathers Hooks using Joi
+- [feathers-postmark](https://www.npmjs.com/package/feathers-postmark) - Feathers Postmark Service
