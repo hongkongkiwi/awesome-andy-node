@@ -35,3 +35,4 @@
 - [feathers-authentication-hooks](https://github.com/feathersjs-ecosystem/feathers-authentication-hooks) - Some authentication hooks to take inspiration from
 - [feathers-hooks-validate-joi](https://github.com/eddyystop/feathers-hooks-validate-joi) - Validation in Feathers Hooks using Joi
 - [feathers-postmark](https://www.npmjs.com/package/feathers-postmark) - Feathers Postmark Service
+- [feathers-authentication-ldap](https://www.npmjs.com/package/feathers-authentication-ldap) - Feathers Authentication Stratergy using LDAP
