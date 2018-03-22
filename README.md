@@ -22,6 +22,27 @@
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [mongoose-aggregate-paginate](https://github.com/Maheshkumar-Kakade/mongoose-aggregate-paginate) - Mongoose Aggregation Pagination
+- [mongoose-elasticsearch-xp](https://github.com/jbdemonte/mongoose-elasticsearch-xp) - Using ElasticSearch & Mongo together!
+- [mongoose-transactions](https://github.com/daton89-topperblues/mongoose-transactions) - Transaction support for Mongoose (clustering operations)
+- [mongoose-patch-histor](https://github.com/codepunkt/mongoose-patch-history) - Add Mongoose Patch capability
+- [mongoose-intl-phone-number](https://github.com/Dashride/mongoose-intl-phone-number) - Mongoose International Phone Number Parsing
+- [mongoose-subscriptions](https://github.com/enhancv/mongoose-subscriptions) - mongoose subscriptions (user & subscription billing). Syncs with Braintree for the payments side.
+
+### Mongoose
+- [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) - Encryption and Authentication for mongoose fields
+- [cachegoose](https://www.npmjs.com/package/cachegoose) - Caching for Mongoose which works the way you expect.
+- [mongoose-type-email](https://www.npmjs.com/package/mongoose-type-email) - Email type for mongoose
+- [mongoose-type-url](https://www.npmjs.com/package/mongoose-type-url) - URL type for mongoose
+- [mongoose-type-uuid2](https://www.npmjs.com/package/mongoose-uuid2) - UUID2 type for mongoose
+- [mongoose-type-bignumber](https://www.npmjs.com/package/mongoose-bignumber) - Bignumber type for mongoose
+- [mongoose-type-imei](https://www.npmjs.com/package/mongoose-imei) - IMEI type for mongoose
+- [mongoose-type-iban](https://www.npmjs.com/package/mongoose-iban) - IBAN type, for international banking account number mainly used in Europe
+- [mongoose-type-html](https://www.npmjs.com/package/mongoose-type-html) - HTML type can also sanitize
+- [mongoose-events-event-logger](https://www.npmjs.com/package/mongoose-events-event-logger) - Mongoose event logger
+- [mongoose-i18n-neutral](https://www.npmjs.com/package/mongoose-i18n-neutral) - Storing text in different languages
+- [mongoose-virtual-populate](https://www.npmjs.com/package/mongoose-virtual-populate) - Mongoose Virtual Populate
+- [mongoose-plugin-autoinc](https://github.com/nodkz/mongoose-plugin-autoinc) - Mongoose auto incrementing fields
 
 ### FeathersJS
 
