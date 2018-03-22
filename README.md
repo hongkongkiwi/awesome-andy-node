@@ -37,3 +37,8 @@
 - [feathers-postmark](https://www.npmjs.com/package/feathers-postmark) - Feathers Postmark Service
 - [feathers-authentication-ldap](https://www.npmjs.com/package/feathers-authentication-ldap) - Feathers Authentication Stratergy using LDAPA
 - [feathers-distribute](https://www.npmjs.com/package/@kalisio/feathers-distributed) - A way to run distributed feathers servers with all calls syncronised
+- [feathers-mocha-utils](https://www.npmjs.com/package/feathers-mocha-utils) - Feathers Server testing using Mocha
+- [feathers-plus-graphql](https://www.npmjs.com/package/@feathers-plus/graphql) - GraphQL for feathers
+- [feathers-authentication-popups](https://www.npmjs.com/package/feathers-authentication-popups) - Functions for handling OAUTH pop windows (e.g. Google Login)
+- [feathers-logger](https://www.npmjs.com/package/feathers-logger) - Nice wrapper so you can do app.log
+- [feathers-errors](https://www.npmjs.com/package/@feathersjs/errors) - Feathers error classes
