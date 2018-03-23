@@ -4,6 +4,13 @@
 
 > Andys curated list of delightful Node.js [packages](#packages) and [resources](#resources). ✨
 
+**Table of Contents**
+
+- [Mad Science](#mad-science)
+- [Express](#express)
+- [Mongoose](#mongoose)
+- [FeathersJS](#feathersjs)
+
 ## Packages
 
 ### Mad Science!
