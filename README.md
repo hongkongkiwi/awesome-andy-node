@@ -6,15 +6,15 @@
 
 ## Packages
 
-### Unsorted
+### Mad Science!
 
+- [Mosca](https://github.com/mcollina/mosca) - Node.js MQTT Broker
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 - [Shaman](https://github.com/nanopack/shaman) - Node.js API DNS
-- (https://github.com/mcollina/mosca)[Mosca] - Node.js MQTT Broker
 - [Etcd](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [crtauth](https://github.com/spotify/crtauth) - A public key backed client/server authentication system
-- [vault] (https://www.vaultproject.io/)- Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
-- [dat](https://github.com/sindresorhus/awesome-nodejs) - Real-time replication and versioning for data sets.
+- [vault](https://www.vaultproject.io/)- Secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets in modern computing.
+- [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables.
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
@@ -22,14 +22,20 @@
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
-- [mongoose-aggregate-paginate](https://github.com/Maheshkumar-Kakade/mongoose-aggregate-paginate) - Mongoose Aggregation Pagination
-- [mongoose-elasticsearch-xp](https://github.com/jbdemonte/mongoose-elasticsearch-xp) - Using ElasticSearch & Mongo together!
-- [mongoose-transactions](https://github.com/daton89-topperblues/mongoose-transactions) - Transaction support for Mongoose (clustering operations)
-- [mongoose-patch-histor](https://github.com/codepunkt/mongoose-patch-history) - Add Mongoose Patch capability
-- [mongoose-intl-phone-number](https://github.com/Dashride/mongoose-intl-phone-number) - Mongoose International Phone Number Parsing
-- [mongoose-subscriptions](https://github.com/enhancv/mongoose-subscriptions) - mongoose subscriptions (user & subscription billing). Syncs with Braintree for the payments side.
+
+
+### Express
+
+- [compression](https://github.com/expressjs/compression) - Gzip Compression for Express Middleware
+- [helmet](https://www.npmjs.com/package/helmet) - Security Best Practices Middleware (adds/removes headers)
+- [express-limiter](https://www.npmjs.com/package/express-limiter) - Rate limiting for express routes
+- [express-crypto](https://github.com/mwiesmueller/express-crypto) - Request/Response Encryption/Decryption for express
+- [http2-node](https://webapplog.com/http2-node) - HTTP/2 for Node
+- [greenlock-express](https://www.npmjs.com/package/greenlock-express) - On demand SSL certificates for Express using LetsEncrypt
+
 
 ### Mongoose
+
 - [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) - Encryption and Authentication for mongoose fields
 - [cachegoose](https://www.npmjs.com/package/cachegoose) - Caching for Mongoose which works the way you expect.
 - [mongoose-type-email](https://www.npmjs.com/package/mongoose-type-email) - Email type for mongoose
@@ -43,6 +49,12 @@
 - [mongoose-i18n-neutral](https://www.npmjs.com/package/mongoose-i18n-neutral) - Storing text in different languages
 - [mongoose-virtual-populate](https://www.npmjs.com/package/mongoose-virtual-populate) - Mongoose Virtual Populate
 - [mongoose-plugin-autoinc](https://github.com/nodkz/mongoose-plugin-autoinc) - Mongoose auto incrementing fields
+- [mongoose-aggregate-paginate](https://github.com/Maheshkumar-Kakade/mongoose-aggregate-paginate) - Mongoose Aggregation Pagination
+- [mongoose-elasticsearch-xp](https://github.com/jbdemonte/mongoose-elasticsearch-xp) - Using ElasticSearch & Mongo together!
+- [mongoose-transactions](https://github.com/daton89-topperblues/mongoose-transactions) - Transaction support for Mongoose (clustering operations)
+- [mongoose-patch-histor](https://github.com/codepunkt/mongoose-patch-history) - Add Mongoose Patch capability
+- [mongoose-intl-phone-number](https://github.com/Dashride/mongoose-intl-phone-number) - Mongoose International Phone Number Parsing
+- [mongoose-subscriptions](https://github.com/enhancv/mongoose-subscriptions) - mongoose subscriptions (user & subscription billing). Syncs with Braintree for the payments side.
 
 ### FeathersJS
 
