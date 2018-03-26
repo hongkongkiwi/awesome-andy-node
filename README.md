@@ -83,6 +83,7 @@
 - [feathers-authentication-popups](https://www.npmjs.com/package/feathers-authentication-popups) - Functions for handling OAUTH pop windows (e.g. Google Login)
 - [feathers-logger](https://www.npmjs.com/package/feathers-logger) - Nice wrapper so you can do app.log
 - [feathers-errors](https://www.npmjs.com/package/@feathersjs/errors) - Feathers error classes
+- [feathers-vuex](https://github.com/feathers-plus/feathers-vuex) - Feathers VUEX Integration
 
 ### Command-line utilities
 
