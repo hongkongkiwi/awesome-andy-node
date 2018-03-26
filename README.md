@@ -128,3 +128,7 @@
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+
+### Other Stuff
+
+- [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base) - AirBnB ESLint Config
