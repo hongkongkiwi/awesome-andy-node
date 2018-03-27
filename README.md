@@ -10,6 +10,7 @@
 - [Express](#express)
 - [Mongoose](#mongoose)
 - [FeathersJS](#feathersjs)
+- [VueJS](#vuejs)
 - [Command Line](#command-line-utilities)
 
 ## Packages
@@ -130,6 +131,16 @@
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
+### VueJS
+- [iview](https://github.com/iview/iview) - iView
+- [vee-validate](https://github.com/baianat/vee-validate) - Validation in Vue.js
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - Better Scroll
+- [vue-resource](https://github.com/pagekit/vue-resource) - HTTP Client for Vue
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue Element Admin
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue Draggable
+
 ### Other Stuff
 
+- [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - Best Resume Ever
+- [docsify](https://github.com/QingWei-Li/docsify) - Docsify
 - [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base) - AirBnB ESLint Config
