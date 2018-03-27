@@ -138,6 +138,7 @@
 - [vue-resource](https://github.com/pagekit/vue-resource) - HTTP Client for Vue
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue Element Admin
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue Draggable
+- [text-mask](https://github.com/text-mask/text-mask) - Text Mask
 
 ### Other Stuff
 
