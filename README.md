@@ -140,6 +140,7 @@
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - Vue Element Admin
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue Draggable
 - [text-mask](https://github.com/text-mask/text-mask) - Text Mask
+- [vuex-localstorage](https://www.npmjs.com/package/vuex-localstorage) - Vuex LocalStorage
 
 ### Other Stuff
 
