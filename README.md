@@ -42,7 +42,6 @@
 - [http2-node](https://webapplog.com/http2-node) - HTTP/2 for Node
 - [greenlock-express](https://www.npmjs.com/package/greenlock-express) - On demand SSL certificates for Express using LetsEncrypt
 
-
 ### Mongoose
 
 - [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption) - Encryption and Authentication for mongoose fields
@@ -133,6 +132,7 @@
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ### VueJS
+
 - [iview](https://github.com/iview/iview) - iView
 - [vee-validate](https://github.com/baianat/vee-validate) - Validation in Vue.js
 - [better-scroll](https://github.com/ustbhuangyi/better-scroll) - Better Scroll
@@ -141,6 +141,7 @@
 - [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue Draggable
 - [text-mask](https://github.com/text-mask/text-mask) - Text Mask
 - [vuex-localstorage](https://www.npmjs.com/package/vuex-localstorage) - Vuex LocalStorage
+- [vuex-toast](https://www.npmjs.com/package/vuex-toast) - Easy toasts with vuex
 
 ### Other Stuff
 
