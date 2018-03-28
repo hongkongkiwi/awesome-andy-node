@@ -31,7 +31,7 @@
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
-
+- [argon2](https://github.com/P-H-C/phc-winner-argon2) - Argon2 state of the art password hashing
 
 ### Express
 
@@ -64,6 +64,7 @@
 - [mongoose-patch-histor](https://github.com/codepunkt/mongoose-patch-history) - Add Mongoose Patch capability
 - [mongoose-intl-phone-number](https://github.com/Dashride/mongoose-intl-phone-number) - Mongoose International Phone Number Parsing
 - [mongoose-subscriptions](https://github.com/enhancv/mongoose-subscriptions) - mongoose subscriptions (user & subscription billing). Syncs with Braintree for the payments side.
+- [mongoose-id](https://www.npmjs.com/package/mongoose-id) - Replaces _id with id in mongoose models
 
 ### FeathersJS
 
